@@ -1,0 +1,18 @@
+# Environment / secrets
+/.env
+# backend/.env is tracked — private repo only
+backend/.venv/
+backend/logs/*.jsonl
+backend/logs/*.json
+!backend/logs/.gitkeep
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+.pytest_cache/
