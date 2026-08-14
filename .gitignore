@@ -1,6 +1,6 @@
 # Environment / secrets
-/.env
-# backend/.env is tracked — private repo only
+.env
+backend/.env
 backend/.venv/
 backend/logs/*.jsonl
 backend/logs/*.json
