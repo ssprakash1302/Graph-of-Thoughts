@@ -10,6 +10,11 @@ backend/logs/*.json
 frontend/node_modules/
 frontend/dist/
 
+# Local assessment notes (not for GitHub)
+docs/GOT_THOUGHTS_VIVA_DEEP_DIVE.md
+docs/VIDEO_SCRIPT.md
+docs/VIDEO_SCRIPT_FULL.md
+
 # OS / IDE
 .DS_Store
 Thumbs.db
